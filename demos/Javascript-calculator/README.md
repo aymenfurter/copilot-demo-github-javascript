@@ -26,7 +26,7 @@ Your Visual Studio Code should look like this. We are now ready to write some co
 
 ### Step 2: Ask GitHub Copilot Chat for assistance
 
-In the GitHub Copilot Chat text box, provide the following prompt to ilicit the help from GitHub Copilot ```Can you give me the code for a standard calculator written in Javascript?```. As you can see below, Copilot Chat will provide the code for you to text in the chat. 
+In the GitHub Copilot Chat text box, provide the following prompt to ilicit the help from GitHub Copilot ```Can you give me the code for a standard calculator written in Javascript? Give me clean function names as per clean code best practices```. As you can see below, Copilot Chat will provide the code for you to text in the chat. 
 
 ![Copilot Creation!](/demos/Javascript-calculator/images/create.png)
 
